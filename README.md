@@ -16,7 +16,7 @@ This dataset was introduced and utilized in our research paper:
 
 ## 📑 Citation Requirement
 
-If you use this dataset, the provided pre-trained weights, or the methodologies described here in your academic work, commercial products, or research, **please cite our paper appropriately**:
+If you use this dataset in your academic work, commercial products, or research, **please cite our paper appropriately**:
 
 ### APA Format
 > Authors. (2023). Semi-supervised transfer learning-based automatic weld defect detection and visual inspection. *Engineering Structures*, 291, 116580. https://doi.org/10.1016/j.engstruct.2023.116580
