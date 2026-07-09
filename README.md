@@ -1,6 +1,6 @@
 # Weld Defect Dataset
 
-Welcome to the official repository for the Weld Defect Dataset. This dataset is designed to advance research in automated visual inspection, quality control, and structural integrity assessment.
+Welcome to the official repository for the Weld Defect Dataset. This dataset is designed to advance research in automated visual inspection, quality control, and structural integrity assessment. The provided "Weld images 256px.zip" are the real weld images and "Weld masks 256px.zip" are thier corrosponding masks.
 
 ---
 
